@@ -1,5 +1,5 @@
 ---
-<h1> FullThrottle-Project</h1>
+<h1 align:'center'> FullThrottle-Project</h1>
 
 ---
 <h2>Models:</h2> User and ActivityPeriod models
