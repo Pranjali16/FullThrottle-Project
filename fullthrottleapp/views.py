@@ -8,7 +8,7 @@ from .models import ActivityPeriod
 
 class UserActivityView(APIView):
     """
-    displays all the challenges with their respective rewards
+    Displays User details with activity period in respective json
     """
     def get(self, request):
 
