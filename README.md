@@ -6,11 +6,16 @@
 
 <h2>View:</h2> UserActivityView to display user details with their activity periods
 <h2>Url:</h2> /user_activity/ 
+
 ---
-Custom management commands to load database.
-1. create_acivity_period-- to create activity period of respective user by passing user id as a arguement.
-2. create_user-- to create users by passing arguement as number of counts of user you want to create.
+<h3>Custom management commands to load database.</h3>
+<h4>1. create_acivity_period-- to create activity period of respective user by passing user id as a arguement.</h4>
+<h4>2. create_user-- to create users by passing arguement as number of counts of user you want to create.</h4>
 
-Technologies: Python, Django
+---
+<h2>Technologies:</h2> Python, Django
 
-Libraries: Django rest framework's libraries.
+---
+<h2>Libraries:</h2> Django rest framework's libraries.
+
+---
