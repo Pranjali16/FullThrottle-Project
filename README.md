@@ -9,8 +9,8 @@
 
 ---
 <h3>Custom management commands to load database.</h3>
-<h4>1. create_acivity_period-- to create activity period of respective user by passing user id as a arguement.</h4>
-<h4>2. create_user-- to create users by passing arguement as number of counts of user you want to create.</h4>
+<h4>1. create_activity_period-- to create activity period of respective user by passing user id as a arguement.</h4>
+<h4>2. create_user-- to create users by passing number of counts of user as an arguement that you want to create.</h4>
 
 ---
 <h2>Technologies:</h2> Python, Django
